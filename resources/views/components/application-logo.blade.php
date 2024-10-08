@@ -1,0 +1,1 @@
+<img src="/images/tech.png" alt="">

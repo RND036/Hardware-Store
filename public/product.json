@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Wrenches",
+        "price": 1200,
+        "image": "images/Wrenches.webp"
+    },
+    {
+        "id": 2,
+        "name": "Pliers",
+        "price": 820,
+        "image": "images/pillers1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Drills",
+        "price": 4250,
+        "image": "images/drills.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Grinder",
+        "price": 8420,
+        "image": "images/grinder.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Lamps",
+        "price": 5620,
+        "image": "images/lamps.webp"
+    },
+    {
+        "id": 6,
+        "name": "Sand",
+        "price": 7120,
+        "image": "images/sand.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cement",
+        "price": 5120,
+        "image": "images/cement.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Oil Paints",
+        "price": 3120,
+        "image": "images/oilbased.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sinks",
+        "price": 120,
+        "image": "images/sinks.jpg"
+    }
+]
